@@ -1,0 +1,7 @@
+Máximo, 1.014909149
+Mínimo1, 1.003395643
+Mínimo2, 1.003677713
+TiempoMínimo1, 3058.64349
+TiempoMínimo2, 3061.279177
+Periodo_orbital, 2.635687
+Radio_planeta, 1.81338701
